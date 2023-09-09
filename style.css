@@ -523,8 +523,8 @@ width: 100px;
   text-align: center;
  }
  .aboutus{
-  display: inline;
-  
+  display: inline-block;
+
  }
 }
 .footer1 a{
