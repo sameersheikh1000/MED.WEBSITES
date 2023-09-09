@@ -522,8 +522,12 @@ width: 100px;
   height: 200px; */
   text-align: center;
  }
+ .aboutus{
+  display: inline;
+  
+ }
 }
 .footer1 a{
   /* display: inline; */
-  
+
 }
