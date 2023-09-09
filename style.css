@@ -112,7 +112,7 @@ label.logo{
 
 
 }
-@media (max-width:725px){
+/* @media (max-width:725px){
     #checkbtn{
        
         display: block;
@@ -139,9 +139,9 @@ label.logo{
         display: block;
         text-align: center;
     }
+ */
 
 
-}
 .one h1{
     font-size: 4.5rem;
     color: #444;
@@ -383,7 +383,7 @@ label.logo{
     color: #008BB0;
   }
   
-  @media (max-width: 991px) {
+  /* @media (max-width: 991px) {
     html {
       font-size: 52%;
     }
@@ -393,7 +393,7 @@ label.logo{
     section {
       padding: 2rem;
     }
-  }
+  } */
   .footer{
     display: flex;
     justify-content: space-around;
