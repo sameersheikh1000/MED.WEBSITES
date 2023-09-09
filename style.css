@@ -526,8 +526,12 @@ width: 100px;
   display: inline-block;
 
  }
+ .aboutimg{
+  width: 100%;
+ }
  .aboutheader{
   display: block;
+  text-align: center;
  }
 }
 .footer1 a{
