@@ -527,11 +527,12 @@ width: 100px;
 
  }
  .aboutimg{
-  width: 100%;
+  width: 400px;
  }
  .aboutheader{
   display: block;
-  text-align: center;
+  /* text-align: center; */
+  margin-left: 50px;
  }
 }
 .footer1 a{
