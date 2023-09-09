@@ -328,7 +328,7 @@ label.logo{
   .footer {
     padding: 2rem 4%;
     background: #efefef;
-    display: ;
+    /* display: ; */
     width: 100%;
   }
   .footer .box-container {
@@ -473,7 +473,7 @@ label.logo{
 animation-timing-function: linear;}
 
 @media (max-width:390px){
-nav{
+.nav{
   color: blue;
 }
 .po{
