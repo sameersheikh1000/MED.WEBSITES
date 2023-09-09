@@ -526,6 +526,9 @@ width: 100px;
   display: inline-block;
 
  }
+ .aboutheader{
+  display: block;
+ }
 }
 .footer1 a{
   /* display: inline; */
