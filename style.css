@@ -524,6 +524,8 @@ width: 100px;
  }
  .aboutus{
   display: inline-block;
+  width: 100%;
+  height: 400px;
 
  }
  .aboutimg{
@@ -532,7 +534,7 @@ width: 100px;
  .aboutheader{
   display: block;
   /* text-align: center; */
-  margin-left: 50px;
+  margin-left: 80px;
  }
 }
 .footer1 a{
